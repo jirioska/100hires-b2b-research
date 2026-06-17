@@ -16,45 +16,65 @@ Justin Welsh is one of the most influential practitioners in LinkedIn organic gr
 ### Post 1
 
 Post Date:
-Approximately 8 months ago
+June 17, 2026
 
 Date Accessed:
-June 15, 2026
+June 17, 2026
 
 Link:
-https://www.linkedin.com/posts/justinwelsh_i-cracked-linkedins-code-in-8-moves-783895-activity-7374771336491008000-W2Fy/
+https://www.linkedin.com/posts/justinwelsh_i-left-a-550000-job-at-38-with-no-plan-activity-7472616054482194433-sFhu
 
 Summary:
-Justin shared eight principles that helped him build a large LinkedIn audience. The strategies include storytelling, repurposing successful content, developing signature frameworks, and focusing on solving expensive problems for a specific audience.
+Justin shared the story of leaving a high-paying corporate position without a clear roadmap and reflected on the decisions that led to building an independent business.
 
 Key Insight:
-LinkedIn growth is not driven by constant novelty. Consistency, repetition of proven ideas, and clear positioning around a valuable problem create sustainable audience growth.
+Career growth often requires calculated risk-taking and a willingness to prioritize long-term opportunities over short-term security.
 
 Research Notes:
-This post highlights repeatable systems and audience clarity as critical success factors for B2B SaaS content creators.
+The post demonstrates how personal storytelling can be used to build credibility and audience engagement on LinkedIn.
 
 ---
 
 ### Post 2
 
-Date:
+Post Date:
+June 16, 2026
+
+Date Accessed:
+June 17, 2026
 
 Link:
+https://www.linkedin.com/posts/justinwelsh_everyone-says-you-can-only-have-two-of-these-activity-7472253671494565889-3YMd
 
 Summary:
+Justin challenged a common belief about balancing multiple aspects of life and work, offering an alternative perspective based on personal experience.
 
 Key Insight:
+Strong content often succeeds by questioning conventional wisdom and presenting a unique point of view.
+
+Research Notes:
+This approach encourages engagement because it invites audiences to reconsider assumptions and join the discussion.
 
 ---
 
 ### Post 3
 
-Date:
+Post Date:
+June 13, 2026
+
+Date Accessed:
+June 17, 2026
 
 Link:
+https://www.linkedin.com/posts/justinwelsh_dont-speak-poorly-about-yourself-because-activity-7471166507822256128-yeGr
 
 Summary:
+Justin discussed the impact of self-perception and how personal narratives influence confidence, performance, and decision-making.
 
 Key Insight:
+The way individuals describe themselves can shape both personal outcomes and audience perception.
+
+Research Notes:
+This post highlights Justin’s ability to combine mindset topics with practical lessons that resonate with professional audiences.
 
 ---
