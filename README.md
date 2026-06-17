@@ -1,2 +1,33 @@
-# 100hires-b2b-research
-Research project for 100Hires: LinkedIn Organic Content Strategy for B2B SaaS
+# 100Hires Research Project
+
+## Topic
+
+LinkedIn Organic Content Strategy for B2B SaaS
+
+## Objective
+
+This research project analyzes content strategies, audience-building techniques, and engagement frameworks used by leading B2B SaaS marketers on LinkedIn.
+
+## Repository Structure
+
+/research/sources.md
+/research/linkedin-posts/
+/research/youtube-transcripts/
+/research/other/
+
+## Selected Experts
+
+- Justin Welsh
+- Richard van der Blom
+- Amanda Natividad
+- Chris Walker
+- Dave Gerhardt
+- Ross Simmonds
+- Lara Acosta
+- Tas Bober
+- Devin Reed
+- Maddy Martin
+
+## Why These Experts
+
+The selected experts actively practice B2B SaaS content marketing, LinkedIn audience growth, demand generation, content distribution, and community building. They were chosen based on practical experience, industry influence, and relevance to LinkedIn organic growth.
