@@ -37,3 +37,12 @@ The selected experts actively practice B2B SaaS content marketing, LinkedIn audi
 LinkedIn content was manually collected and analyzed from each expert's recent posts.
 
 Video materials were reviewed and summarized into structured transcript notes focusing on key topics, takeaways, and relevance to LinkedIn organic content strategy for B2B SaaS.
+
+## Key Research Themes
+
+- Audience Building
+- Content Distribution
+- LinkedIn Positioning
+- Thought Leadership
+- Demand Generation
+- Community-Led Growth
