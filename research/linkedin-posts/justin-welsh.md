@@ -3,7 +3,13 @@
 ## Profile
 
 LinkedIn:
+https://www.linkedin.com/in/justinwelsh/
+
 Website:
+https://www.justinwelsh.me/
+
+Reason for Inclusion:
+Justin Welsh is one of the most influential practitioners in LinkedIn organic growth. He has built a profitable one-person business largely through consistent LinkedIn content systems and audience building.
 
 ## Posts
 
