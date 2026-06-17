@@ -16,12 +16,16 @@ Justin Welsh is one of the most influential practitioners in LinkedIn organic gr
 ### Post 1
 
 Date:
+Approximately 8 months ago
 
 Link:
+https://www.linkedin.com/posts/justinwelsh_i-cracked-linkedins-code-in-8-moves-783895-activity-7374771336491008000-W2Fy/
 
 Summary:
+Justin shared eight principles that helped him build a large LinkedIn audience. The strategies include storytelling, repurposing successful content, developing signature frameworks, and focusing on solving expensive problems for a specific audience.
 
 Key Insight:
+LinkedIn growth is not driven by constant novelty. Consistency, repetition of proven ideas, and clear positioning around a valuable problem create sustainable audience growth.
 
 ---
 
